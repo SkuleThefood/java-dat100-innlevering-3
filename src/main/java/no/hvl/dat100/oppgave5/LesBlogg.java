@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
+/*
 import no.hvl.dat100.common.TODO;
 import no.hvl.dat100.oppgave1.*;
 import no.hvl.dat100.oppgave2.*;
@@ -26,3 +27,4 @@ public class LesBlogg {
 
 	}
 }
+*/

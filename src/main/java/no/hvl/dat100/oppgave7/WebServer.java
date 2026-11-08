@@ -3,6 +3,7 @@ package no.hvl.dat100.oppgave7;
 import java.io.IOException;
 import java.net.ServerSocket;
 
+/*
 public class WebServer {
 	
 	public static void main(String[] args) {
@@ -32,3 +33,4 @@ public class WebServer {
 		System.out.println("TCP Server shutting down");
 	}
 }
+*/

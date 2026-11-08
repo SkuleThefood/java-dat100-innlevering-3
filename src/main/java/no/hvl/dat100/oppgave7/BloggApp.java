@@ -8,6 +8,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Date;
 
+/*
 import no.hvl.dat100.oppgave2.Bilde;
 import no.hvl.dat100.oppgave2.Tekst;
 import no.hvl.dat100.oppgave3.Blogg;
@@ -88,3 +89,4 @@ public class BloggApp {
 		}
 	}
 }
+*/
